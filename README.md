@@ -16,7 +16,7 @@ Inspired by [apollo-link-firebase](https://github.com/Canner/apollo-link-firebas
 ## Installation
 
 ```console
-npm install apollo-link-pouchdb
+npm install apollo-link-pouch
 ```
 
 ## Getting Started
